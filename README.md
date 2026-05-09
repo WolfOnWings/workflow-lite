@@ -10,7 +10,7 @@ Usually research is the first step when creating something, but LLMs doing infor
 
 ```
 .claude/
-  agents/researcher.md      # the worker
+  agents/research-analyst.md      # the worker
   skills/research/SKILL.md  # the orchestrator wrapper
 ```
 
