@@ -1,6 +1,6 @@
 # workflow-lite
 
-A small workflow suggestion for Claude Code: the `research` skill plus the `researcher` subagent, packaged so you can lift them into your own setup. Ask Claude to add these to your tools.
+A small workflow suggestion for Claude Code: the `research` skill plus the `research-analyst` subagent, packaged so you can lift them into your own setup. Ask Claude to add these to your tools.
 
 ## The pattern
 
